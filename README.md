@@ -12,3 +12,6 @@ In this repository you can find:
 2)the conjugate gradient descent with pre-condition
 
 3)the sparsity constraint & weighted constraint in optimization
+
+To see a full thesis with how this code work please check:
+http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201502&filename=1015389623.nh&v=MTA5NjNVUkxPZlp1UnNGaW5rVkxyTVZGMjZHN0N3RjlmT3JKRWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckM=
