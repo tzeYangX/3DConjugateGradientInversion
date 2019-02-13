@@ -1,7 +1,7 @@
 # 3DConjugateGradientInversion
 Pre-condition Conjugate Gradient code for Tensor Gradient Field's 3D Inversion with Sparsity Constrain
 
-These code represent my work of Mater Thesis.
+These code represent my work of Master Thesis.
 
 Using pre-condition conjugate gradient, we can reconstruct the 3D tensor gradient field.
 
